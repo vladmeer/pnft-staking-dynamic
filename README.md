@@ -123,3 +123,10 @@ Reward per day should be token amount in decimal expected to receive everyday
    yarn script user-status -a <USER_ADDRESS>
 ```
 
+# 👤 Author
+
+### Twitter: [Dieharye](https://x.com/dieharye)   
+https://x.com/dieharye
+### Telegram: [Vladmeer](https://t.me/vladmeer67)   
+https://t.me/vladmeer67
+
